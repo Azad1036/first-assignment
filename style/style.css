@@ -329,3 +329,60 @@
     box-shadow: 6px 6px 6px 6px #427E93;
 }
 
+/* feedback releted style */
+.feedback {
+    margin: 70px 50px;
+    max-width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+}
+
+.feedback-icon {
+    margin-top: 80px;
+}
+
+.user-title {
+    margin-top: 40px;
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.feedback-dis {
+    margin-top: 22px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.sub-me {
+    margin-top: 48px;
+}
+
+.sub-me input[type="email"] {
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    border: 0px;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 24px 56px;
+}
+
+.sub-me input[type="submit"] {
+    background: #F00;
+    border-radius: 0px 50px 50px 0px;
+    border: 0px;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 24px 56px;
+}
+
