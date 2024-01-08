@@ -278,3 +278,54 @@
     width: 300px;
 }
 
+/* gift releted sytle */
+.gift {
+    margin: 50px 50px;
+    text-align: left;
+}
+
+.cute-gift {
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.cute-gift-title {
+    margin-top: 16px;
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.bcute-gift-dis {
+    margin-top: 22px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.cute-gift-images {
+    margin-top: 48px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.gift-image {
+    width: 32%;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border-radius: 16px;
+}
+
+.gift-image img {
+    width: 100%;
+}
+
+.gift-image :hover {
+    box-shadow: 6px 6px 6px 6px #427E93;
+}
+
