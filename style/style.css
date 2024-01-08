@@ -30,3 +30,39 @@
     font-size: 72px;
     font-weight: 900;
 }
+
+/* Discount releted style */
+.discount {
+    margin: 70px 280px;
+}
+
+.discount-offer {
+    color: #F00;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.discount-subtitle {
+    color: #F00;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+}
+
+.discount-title {
+    color: #070211;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.discount-imageg {
+    max-width: 800px;
+    max-height: 500px;
+}
