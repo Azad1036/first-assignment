@@ -159,3 +159,67 @@
     border: 0;
 }
 
+/* coming soon releted style */
+.coming-soon {
+    margin: 50px 50px;
+}
+
+.coming-soon-section {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+    align-items: center;
+    gap: 10px;
+}
+
+.coming-soon-main {
+    width: 31%;
+    margin: 15px;
+}
+
+.coming-soon-subtitle {
+    color: #F00;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.coming-soon-title {
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.coming-soon-item-dis {
+    margin-top: 22px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.coming-soon-image {
+    max-width: 330px;
+}
+
+.coming-soon-img-all {
+    width: 330px;
+    padding: 10px;
+    border: 7px solid red;
+    border-radius: 100%;
+}
+
+.coming-soon-year {
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.coming-soon-injoy {
+    margin-top: 45px;
+}
+
+
