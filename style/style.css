@@ -13,7 +13,7 @@
     margin: 50px 50px;
     padding: 177px 344px;
     border-radius: 16px;
-    
+
 }
 
 .hbanner-subtitle {
@@ -65,7 +65,7 @@
 
 .discount-image {
     max-width: 800px;
-    max-height: 500px;    
+    max-height: 500px;
 }
 
 /* injoy releted style */
@@ -140,7 +140,7 @@
     font-weight: 600;
 }
 
-.join-option{
+.join-option {
     color: #F00;
     font-family: 'Inter', sans-serif;
     font-size: 30px;
@@ -386,3 +386,36 @@
     padding: 24px 56px;
 }
 
+/* fotter releted style */
+
+footer{
+    background-color: #070211;;
+    max-width: 1600px;
+}
+
+.footer-address, .footer-copyright{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 70px 140px;
+}
+
+hr{
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.hr-line{
+    margin: 50px 140px;
+}
+
+.footer-images-section{
+    text-align: center;
+}
+
+.footer-image{
+    margin: 80px 20px;
+}
